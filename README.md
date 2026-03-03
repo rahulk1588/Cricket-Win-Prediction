@@ -1,2 +1,15 @@
-# Cricket-Win-Prediction
-Goal of this project is predicting the performance of the Indian team on simulated data based on the historical performance of the Indian Cricket Team and providing unique strategies to be unpredictable. Primary objective is to create Machine Learning models. Based on the predictions, the model will suggest changes to improve India's chance to win.
+# Cricket Win Prediction
+## Overview
+Built classification models to predict match outcomes for the Indian cricket team using historical performance data.
+
+## Techniques
+- Non-parametric classification models
+- SMOTE for class balancing
+- Data preprocessing and feature engineering
+
+## Results
+- Improved prediction accuracy after balancing data
+- Generated strategic insights to enhance winning probability
+
+## Tools
+Python, scikit-learn, Pandas, Matplotlib
